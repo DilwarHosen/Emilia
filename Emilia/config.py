@@ -20,7 +20,7 @@ class Config(object):
     UPDATE_CHANNEL = "AloneXBots" # Update Channel Username
     START_PIC = "https://pic-bstarstatic.akamaized.net/ugc/9e98b6c8872450f3e8b19e0d0aca02deff02981f.jpg@1200w_630h_1e_1c_1f.webp" # Start Image
     DEV_USERS = [7552579717, 6079943111] # Dev Users
-    TOKEN = "6392016724:AAFGLr0Hz1ZTNIZnfNEatSeLKDO8ZNE8XRM" # Bot Token from @BotFather
+    TOKEN = "6392016724:AAGnr8czUSreoQ_H3Z_1h463pq2SjkrvCcw" # Bot Token from @BotFather
     CLONE_LIMIT = 50 # Number of clones your bot can make
 
     EVENT_LOGS = -1001603822916 # Event Logs Chat ID
